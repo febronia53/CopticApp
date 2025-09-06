@@ -1,0 +1,6 @@
+.buildozer/
+.config/
+sample_data/
+drive/
+*.gsheet
+*.ipynb
